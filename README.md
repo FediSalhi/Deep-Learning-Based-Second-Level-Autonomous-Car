@@ -14,6 +14,6 @@ A Raspberry Pi collects images from a camera module and send them wirelessly to 
 
 ### Traffic Signs Detection
 Turkish traffic signs detection is done using Haar Cascade classification algorithms. You may use our classifiers or refer to this tutorial (https://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html) if you want to train your own ones.
-An Example of traffic sign detection is shown below:
+An Example of Stop sign detection is shown below:
 
-![yaya](https://user-images.githubusercontent.com/45536639/59555117-73bb8600-8fb6-11e9-9b54-092f445a5398.PNG)
+![dur01](https://user-images.githubusercontent.com/45536639/59555423-a36c8d00-8fba-11e9-83c1-3de0756b33d0.png)
