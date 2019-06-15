@@ -1,2 +1,3 @@
 # Deep-Learning-Based-Second-Level-Autonomous-Car
-Building a 1:20 scale second level self driving car controlled by a Raspberry Pi and a remote computer.
+This project is a try to build a 1:20 scale second level autonomous car controlled by a Raspberry Pi (Client) wirelessly connected to a computer (Server). In this level of autonomy, at least one driver assistance system of  both steering and acceleration using information about the driving environment  is automated, like cruise control and lane-centering.
+The understanding of this project requires a basic knowledge of both Convolutional Neural Networks and Python. Having previous experience with electronic circuits will help to understand the wiring schematic of this project. Codes are implemented in Python3, using Keras a high-level machine learning API and OpenCV for image processing.
